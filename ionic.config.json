@@ -1,0 +1,7 @@
+{
+  "name": "counter-app-zustand-persist",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
